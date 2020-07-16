@@ -9,7 +9,7 @@
   <ul><%= item.description %></ul>
   <ul>Price: $<%= item.price %>.00</ul>
   <ul>Inventory: <%= item.inventory %></ul>
-  <ul><% if item.active_inactive %></ul>
+  <ul><% if item.active_inactive == true %></ul>
     <%= "Active" %>
     <% else %>
     <%= "Inactive" %>
