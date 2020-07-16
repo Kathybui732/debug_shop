@@ -283,28 +283,21 @@
           null
         ]
       },
-      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/controllers/merchants_controller.rb": {
+      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/models/item.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/controllers/items_controller.rb": {
         "lines": [
           1,
           null,
           1,
-          null,
-          null,
-          1,
           0,
           0,
           null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null,
-          1,
-          2,
           null,
           null,
           1,
@@ -314,15 +307,28 @@
           null,
           null,
           1,
-          2,
-          2,
-          2,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
           null,
           null,
           1,
           null,
           1,
           0,
+          null,
           null,
           null,
           null
@@ -333,15 +339,8 @@
           1,
           null
         ]
-      },
-      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/models/item.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1594879850
+    "timestamp": 1594880163
   }
 }
