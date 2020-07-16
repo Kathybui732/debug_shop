@@ -269,7 +269,7 @@
           null
         ]
       },
-      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/models/merchant.rb": {
+      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/models/item.rb": {
         "lines": [
           1,
           1,
@@ -283,7 +283,7 @@
           null
         ]
       },
-      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/models/item.rb": {
+      "/Users/kathybui/turing/2-mod/exercises/debug_shop/app/models/merchant.rb": {
         "lines": [
           1,
           1,
@@ -291,6 +291,6 @@
         ]
       }
     },
-    "timestamp": 1594876383
+    "timestamp": 1594876469
   }
 }
